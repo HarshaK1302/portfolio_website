@@ -33,7 +33,7 @@ function About() {
             <h5>What do I believe in?</h5>
             <p className="text-justify">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do ud
-              labore tempor ut labore exercitation.
+              labore tempor udfsdgdft labore exercitation.
             </p>
           </div>
           <div className="col-12 col-md-6 px-5 pt-5">
